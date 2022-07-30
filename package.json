@@ -1,0 +1,22 @@
+{
+  "name": "std-todoapp",
+  "version": "1.0.0",
+  "description": "Study node JS + MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baesee/study_todo_nodeJs_mongodb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baesee/study_todo_nodeJs_mongodb/issues"
+  },
+  "homepage": "https://github.com/baesee/study_todo_nodeJs_mongodb#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
